@@ -27,50 +27,7 @@ body {
   margin-left: 10%;
   margin-right: 10%;
 }
-#survey-form {
-  
-}
-#name {
-  
-}
-#email {
-  
-}
-#number {
-  
-}
-#name-label {
-  
-}
-#email-label {
-  
-}
-#number-label {
-  
-}
-#Starter {
-}
-#dropdown {
-  
-}
-#fave-type {
-  
-}
-#fire {
-  
-}
-#water {
-  
-}
-#grass {
-  
-}
-#normal {
-  
-}
-#electric {
-  
-}
+
 #div2 {
   border-width: 10px;
   border-style: dashed;
@@ -78,9 +35,6 @@ body {
   padding: 20px;
   margin-left: 10%;
   margin-right: 10%;
-}
-#checkbox {
-  
 }
 #jstarterpack {
   font-size: 35px;
@@ -90,10 +44,4 @@ body {
 }
 #para {
   font-size: 18px;
-}
-#textarea {
-  
-}
-#submit {
-  
 }
